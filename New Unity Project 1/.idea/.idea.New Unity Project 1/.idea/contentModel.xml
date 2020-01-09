@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Adi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Adi\.Rider2019.3\system\resharper-host\Local\Transient\ReSharperHost\v193\SolutionCaches\_New Unity Project 1.2043964707.00" t="ExcludeRecursive" />
+    <e p="D:\Projekte_Neu\Projekte\Minigame -Adi Custovic\New Unity Project 1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Scripts MainMenu" t="Include">
+            <e p="LoadSceneOnClick.cs" t="Include" />
+            <e p="QuitOnClick.cs" t="Include" />
+          </e>
+          <e p="ScriptsLevel1" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="CubeController.cs" t="Include" />
+            <e p="Killbox.cs" t="Include" />
+            <e p="PlatformMover.cs" t="Include" />
+            <e p="ResetCurrentLevel.cs" t="Include" />
+            <e p="ReturnToMainMenu.cs" t="Include" />
+            <e p="Rotator.cs" t="Include" />
+            <e p="WinBase_final.cs" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include">
+          <e p="ActiveStateToggler.cs" t="Include" />
+          <e p="ApplicationManager.cs" t="Include" />
+          <e p="ChangeColor.cs" t="Include" />
+          <e p="DragMe.cs" t="Include" />
+          <e p="DragPanel.cs" t="Include" />
+          <e p="DropMe.cs" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="Jupiter" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+          <e p="PanelManager.cs" t="Include" />
+          <e p="ResizePanel.cs" t="Include" />
+          <e p="ScrollDetailTexture.cs" t="Include" />
+          <e p="ShowSliderValue.cs" t="Include" />
+          <e p="Textures and Sprites" t="Include">
+            <e p="SF UI" t="Include">
+              <e p="Background" t="Include">
+                <e p="LICENSE.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="TiltWindow.cs" t="Include" />
+          <e p="UI-Default-No-Alpha.shader" t="Include" />
+        </e>
+      </e>
+      <e p="New Unity Project 1.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
